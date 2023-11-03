@@ -4,7 +4,31 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/01.Scenes/intro.unity
+    guid: 72bc8a56375b8f541a9a40be79dc97a0
+  - enabled: 1
+    path: Assets/01.Scenes/information.unity
+    guid: 185574af0144c6d45b7b80b4599d2884
+  - enabled: 1
+    path: Assets/01.Scenes/profile.unity
+    guid: 63dc8021b45c2a649acabd5c368be24e
+  - enabled: 1
+    path: Assets/01.Scenes/customaize.unity
+    guid: 28fc1e1064b8159458b74bbb2703ff31
+  - enabled: 1
+    path: Assets/01.Scenes/customaize_boy.unity
+    guid: 6dfd3ffea7d4df64497f8b34db1ef994
+  - enabled: 1
+    path: Assets/01.Scenes/customaize_hair.unity
+    guid: e24fa5f10bc85724db8275eead2c1d1c
+  - enabled: 1
+    path: Assets/01.Scenes/customaize_clothselect.unity
+    guid: f54c3652719a4b6418ca06e18aa75dca
+  - enabled: 1
+    path: Assets/01.Scenes/customaize_cloth.unity
+    guid: d136bbfbb4302424f8a0d52c3d21aee6
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: e0760908f01a186418f44d133af90342, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f21f1bb02dbd49d4b887c542d3c8bfc6, type: 2}
